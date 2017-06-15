@@ -10,7 +10,7 @@ Keep in mind that it will not work with recaptcha v2 More info: https://develope
 
 ## Using
 - CMUSphinx: https://cmusphinx.github.io/
-- FFmpeg: https://ffmpeg.org/
+- FFmpeg: https://ffmpeg.org/ (you have to download it and put binaries into "sr" directory)
 
 ## Donations
 All donations are unnecessary and not expected, but greatly appreciated.
