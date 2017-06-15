@@ -1,4 +1,10 @@
-<?php //TODO: ERROR_YOUR_IP_IS_BANNED_BY_GOOGLE //for windows - change "/dev/null" to "nul"
+<?php
+// MIT License :: Copyright (c) 2017 Karmel0x
+// https://github.com/Karmel0x/recaptcha-api-noscript-solver
+//for windows - change "/dev/null" to "nul"
+//TODO: improve speech recognition (sr/0.dict)
+//TODO: ERROR_YOUR_IP_IS_BANNED_BY_GOOGLE
+
 	include_once("confignconnect.php");
 	if(file_exists("t1"))exit();
     fclose(fopen('t1', 'w'));
