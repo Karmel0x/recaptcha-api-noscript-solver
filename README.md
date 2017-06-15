@@ -1,5 +1,5 @@
-# recaptcha-api-noscript-solver
-PHP solver for reCAPTCHA v1
+# recaptcha-v1-solver
+PHP solver for reCAPTCHA v1 : https://www.google.com/recaptcha/api/noscript?k=GOOGLE_RECAPTCHA_KEY_HERE
 
 Keep in mind that it will not work with recaptcha v2 More info: https://developers.google.com/recaptcha/docs/faq
 
